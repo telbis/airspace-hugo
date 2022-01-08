@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: images/linus-mimietz-wy7aolq42aq-unsplash.jpg
-  bg_overlay: false
+  bg_overlay: true
   title: Research <br/> & Translation Agency
   content: Ottoman Turkish
   button:
