@@ -7,7 +7,7 @@ paginate = "6"
 summaryLength = "10"
 theme = "airspace-hugo"
 timeZone = "UTC"
-title = "Airspace | Creative Agency Hugo Template"
+title = "Ottoman Service | Research & Translation Agency"
 [caches.assets]
 dir = ":resourceDir/_gen"
 maxAge = "720h"
