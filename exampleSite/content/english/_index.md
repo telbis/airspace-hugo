@@ -3,12 +3,11 @@ banner:
   enable: true
   bg_image: images/linus-mimietz-wy7aolq42aq-unsplash.jpg
   bg_overlay: true
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  title: Research <br/> & Translation Agency
+  content: Ottoman Turkish
   button:
     enable: true
-    label: Discover Our Project
+    label: Discover Our Services
     link: project
 about:
   enable: true
